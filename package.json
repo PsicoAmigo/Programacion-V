@@ -1,0 +1,18 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "main": "variables.js",
+  "scripts": {
+    "app": "node \"app.js",
+    "suma":"node operaciones/suma.js ",
+    "variables": "node operaciones/variables.js",
+    "operadores": "node operaciones/operadores.js",
+    "operadores_comparacion": "node operaciones/operadores_comparacion.js",
+    "operadores_logicos": "node operaciones/operadores_logicos.js",
+    "Metodo_String": "node operaciones/metodosString.js" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
