@@ -9,7 +9,12 @@
     "operadores": "node operaciones/operadores.js",
     "operadores_comparacion": "node operaciones/operadores_comparacion.js",
     "operadores_logicos": "node operaciones/operadores_logicos.js",
-    "Metodo_String": "node operaciones/metodosString.js" 
+    "Metodo_String": "node operaciones/metodosString.js" ,
+    "array":"node operaciones/05_arrays.js",
+    "while": "node operaciones/07_while.js",
+    "elejir":"node operaciones/elegir_numero.js",
+    "for": "node operaciones/08_for.js"
+
   },
   "keywords": [],
   "author": "",
